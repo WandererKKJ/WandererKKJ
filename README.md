@@ -6,10 +6,6 @@ I am <b>KIJO KIM</b>, a passionate system developer from Korea, South.
 <a href="https://www.instagram.com/wander_k_jo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wander_k_jo/"/></a>
 <a href="mailto:kkj13922@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kkj13922@gmail.com"/></a>
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8ed21a92-b0e3-4b6a-aa88-1e3f1c8fd285" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
 ## Experience
 - 👯 Bachelor's degrees in Math & Computer Science and Engineering <b>(Sogang UNIV, 2015.03 ~ 2023.02)</b>
 - 🔭 Currently Working on <b>SoosanINT</b>, Security Lab and Developing system called <b>DLP (2024.04 ~)</b>
