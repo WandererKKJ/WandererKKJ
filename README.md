@@ -6,7 +6,12 @@ I am <b>KIJO KIM</b>, a passionate self-taught system developer from Korea, Sout
 ## Experience
 - 👯 Bachelor's degrees in Math & Computer Science and Engineering <b>(Sogang UNIV, 2015.03 ~ 2023.02)</b>
 - 🔭 Currently Working on <b>SoosanINT</b>, Security Lab and Developing system called <b>DLP (2024.04 ~)</b>
-- 🌱 I’m currently learning <b>C++, Linux, and Networking</b>
+- 🌱 I’m currently improving my skills on <b>C++, Linux, and Networking</b>
+
+## Major Stack
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/ubuntu-6DB33F?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/CentOS-61DAFB?style=for-the-badge&logo=CentOS&logoColor=black">  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon web services&logoColor=white"> <img src="https://img.shields.io/badge/network-F8DC75?style=for-the-badge&logoColor=white">
+
+
 
 <!--
 **WandererKKJ/WandererKKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
