@@ -7,7 +7,7 @@ I am <b>KIJO KIM</b>, a passionate system developer from Korea, South.
 <a href="mailto:kkj13922@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kkj13922@gmail.com"/></a>
 
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8ed21a92-b0e3-4b6a-aa88-1e3f1c8fd285" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## Experience
