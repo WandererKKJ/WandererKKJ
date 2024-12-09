@@ -23,6 +23,10 @@ I am <b>KIJO KIM</b>, a passionate system developer from Korea, South.
 <img src="https://img.shields.io/badge/ElasticSearch-7952B3?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Logstash-FFCA28?style=flat-square&logo=logstash&logoColor=black"/> <img src="https://img.shields.io/badge/Kibana-FF0000?style=flat-square&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/GlusterFS-00ADD8?style=flat-square&logo=Gluster&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-31A8FF?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-232F3E?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-9999FF?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-00ADD8?style=flat-square&logo=docker&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Net driver-E10098?style=flat-square&logo=open source hardware&logoColor=white"/> <img src="https://img.shields.io/badge/TCP/IP-4285F4?style=flat-square&logo=TCP&logoColor=white"/> <img src="https://img.shields.io/badge/SSL-092E20?style=flat-square&logo=ssl&logoColor=white"/> <img src="https://img.shields.io/badge/HTTP/1.1-66595C?style=flat-square&logo=HTTP&logoColor=white"/> <img src="https://img.shields.io/badge/HTTP/2.0-66595C?style=flat-square&logo=HTTP&logoColor=white"/>
+<br><br>
+<a href="https://www.credly.com/badges/8ed21a92-b0e3-4b6a-aa88-1e3f1c8fd285/public_url">
+  <img width="150" height="150" src="./image/aws-certified-solutions-architect-associate.png">
+</a>
 </details>
 
 <details>
@@ -42,7 +46,6 @@ I am <b>KIJO KIM</b>, a passionate system developer from Korea, South.
 </p>
 
 <img src="https://github.com/WandererKKJ/github-stats-transparent/blob/output/generated/overview.svg"> <img src="https://github.com/WandererKKJ/github-stats-transparent/blob/output/generated/languages.svg">
-
 
 <!--
 **WandererKKJ/WandererKKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
