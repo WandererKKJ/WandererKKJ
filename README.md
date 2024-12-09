@@ -41,6 +41,9 @@ I am <b>KIJO KIM</b>, a passionate system developer from Korea, South.
   &nbsp;
 </p>
 
+<img src="https://github.com/WandererKKJ/github-stats-transparent/blob/output/generated/overview.svg"> <img src="https://github.com/WandererKKJ/github-stats-transparent/blob/output/generated/languages.svg">
+
+
 <!--
 **WandererKKJ/WandererKKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
